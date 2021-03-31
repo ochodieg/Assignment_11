@@ -1,0 +1,21 @@
+Title	ISBN	Author	Price
+HTML and CSS: Design and Build Websites	978-1118008188	Jon Duckett	17.74
+Beginning Programming All-In-One Desk Reference For Dummies	978-0470108543	Wallace Wang	24.12 
+Beginning C++ Through Game Programming	978-1435457423	Michael Dawson	23.47
+Elements of Programming Interviews	978-1479274833	Adnan Aziz, Tsung-Hsien Lee	19.95
+Code: The Hidden Language of Computer Hardware and Software	978-0735611313	Charles Petzold	14.85
+The Principles of Object-Oriented JavaScript	978-1593275402	Nicholas C. Zakas	13.29
+How Linux Works: What Every Superuser Should Know	978-1593275679	Brian Ward	20.86
+The Psychology of Computer Programming	978-0932633422	Gerald M. Weinberg	44.95
+Writing Secure Code	978-0735617223	Michael Howard, David LeBlanc	35.48
+The Mythical Man-Month	978-0201835953	Frederick Brooks Jr.	26.59
+The Pragmatic Programmer	978-0135957059	David Thomas, Andrew Hunt	42.31
+Peopleware: Productive Projects and Teams	978-0321934116	Tom DeMarco, Tim Lister	40.49
+Raspberry Pi User Guide	978-1119264361	Eben Upton	15.00
+The Self-Taught Programmer	978-0999685907	Cory Althoff	20.78
+Code Complete (Developer Best Practices)	978-0735619678	McConnell Steve	23.23
+Information Technology Essentials Volume 1	978-1708175146	Eric Frick	15.12
+Computer Science Distilled	978-0997316025	Wladston Ferreira Filho	17.39
+Programming Pearls	978-0201657883	Jon Bentley	40.49
+Coders at Work	978-1430219484	Peter Seibel	28.10
+Working Effectively with Legacy Code	978-0131177055	Michael Feathers	53.21
